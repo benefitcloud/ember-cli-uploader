@@ -3,6 +3,6 @@ module.exports = {
   },
 
   afterInstall: function() {
-    return this.addBowerPackageToProject('ember-uploader', '0.3.6');
+    return this.addBowerPackageToProject('ember-uploader', '0.3.7');
   }
 };
