@@ -18,3 +18,7 @@ in your Ember CLI project's root.
 
 For the actual Ember Uploader repository see
 https://github.com/benefitcloud/ember-uploader
+
+## Known issues
+
+* Generation does not work properly with ember-cli 0.2.3 and is fixed with 0.2.5
