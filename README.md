@@ -1,6 +1,6 @@
 #  Ember Uploader
 
-This is an npm package that contains the Ember Uploader library
+This is an npm package that contains the [Ember Uploader](https://github.com/benefitcloud/ember-uploader) library
 packaged as an [Ember CLI](https://github.com/stefanpenner/ember-cli) Addon.
 
 ## Installation
