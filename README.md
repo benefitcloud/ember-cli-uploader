@@ -16,6 +16,18 @@ ember generate ember-cli-uploader
 
 in your Ember CLI project's root.
 
+And, from your component:
+
+````
+import EmberUploader from 'ember-uploader';
+
+export default EmberUploader.FileField.extend({
+  filesDidChange: function(files) {
+    // ...
+  });
+});
+````
+
 For the actual Ember Uploader repository see
 https://github.com/benefitcloud/ember-uploader
 
