@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-uploader",
-  "version": "0.3.9",
+  "version": "0.3.10",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
