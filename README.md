@@ -13,6 +13,8 @@ To install simply run
 npm install --save-dev ember-cli-uploader
 ember generate ember-cli-uploader
 ```
+in your Ember CLI project's root.
+
 
 And add in `ember-cli-build.js` the following code:
 
@@ -27,8 +29,6 @@ module.exports = function(defaults) {
  return app.toTree();
 };
 ```
-
-in your Ember CLI project's root.
 
 And, from your component:
 
