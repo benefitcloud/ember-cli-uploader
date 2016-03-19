@@ -1,3 +1,5 @@
+**THIS PROJECT IS DEPRECATED: [ember-uploader](https://github.com/benefitcloud/ember-uploader) now has add-on support natively. Please update your package.json accordingly.**
+
 #  Ember Uploader
 
 This is an npm package that contains the [Ember Uploader](https://github.com/benefitcloud/ember-uploader) library
